@@ -1,0 +1,20 @@
+﻿<Window x:Name="Cleaner_Updater" x:Class="Updater.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Updater"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="243.151" Width="492.941">
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF7915B2" Offset="0"/>
+                <GradientStop Color="#FFFB8107" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <ProgressBar x:Name="progressbar1" Value="0"  HorizontalAlignment="Left" Height="33" Margin="151,67,0,0" VerticalAlignment="Top" Width="161"/>
+        <Button x:Name="btndownload" Content="Download" HorizontalAlignment="Left" VerticalAlignment="Top" Width="94" Margin="186,105,0,0" Click="btndownload_Click" Height="25"/>
+
+    </Grid>
+</Window>

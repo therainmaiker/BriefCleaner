@@ -1,0 +1,14 @@
+C:\Users\Youcode\source\repos\sarakosta\Updater\bin\Release\Updater.exe.config
+C:\Users\Youcode\source\repos\sarakosta\Updater\bin\Release\Updater.exe
+C:\Users\Youcode\source\repos\sarakosta\Updater\bin\Release\Updater.pdb
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\MainWindow.g.cs
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\App.g.cs
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\Updater_MarkupCompile.cache
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\Updater_MarkupCompile.lref
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\MainWindow.baml
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\Updater.g.resources
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\Updater.Properties.Resources.resources
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\Updater.csproj.GenerateResource.cache
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\Updater.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\Updater.exe
+C:\Users\Youcode\source\repos\sarakosta\Updater\obj\Release\Updater.pdb
